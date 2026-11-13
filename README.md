@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:090014,45:32105F,100:00C8FF&text=YOGESH%20NAIK&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=BUILDING%20THE%20FUTURE%20ONE%20COMMIT%20AT%20A%20TIME&descSize=13&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="./assets/yn-profile-hero.svg" width="100%" alt="Yogesh Naik — YN Interactive" />
 
-<a href="https://github.com/yogesh-hum"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=9B7BFF&center=true&vCenter=true&width=650&lines=BCA+Student+%40+YCMOU;Aspiring+Python+%26+Full-Stack+Developer;Turning+ideas+into+practical+projects;Welcome+to+my+digital+workspace." alt="Typing introduction" /></a>
-
-<br/>
+<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=9B7BFF&center=true&vCenter=true&width=650&lines=BCA+Student+%40+YCMOU;Aspiring+Python+%26+Full-Stack+Developer;Turning+ideas+into+practical+projects;Welcome+to+my+digital+workspace." alt="Typing introduction" /></a>
 
 <a href="https://github.com/yogesh-hum"><img src="https://img.shields.io/badge/GitHub-yogesh--hum-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://yn-interactive-rddn.vercel.app"><img src="https://img.shields.io/badge/Portfolio-YN%20Interactive-6C3BFF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/Focus-Python%20%2F%20Full--Stack-00C8FF?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FOCUS-Python%20%2F%20Full--Stack-00C8FF?style=for-the-badge&logo=python&logoColor=white" />
 
 </div>
 
@@ -18,36 +16,53 @@
 <tr>
 <td width="58%" valign="top">
 
-## ◈ ABOUT ME
+## ◈ THE PERSON BEHIND THE CODE
 
-Hey! I'm **Yogesh Naik** — a BCA student at **YCMOU**, based in Maharashtra, India.
+Hey, I'm **Yogesh Naik** — a BCA student at **YCMOU**, based in Maharashtra, India.
 
-I enjoy learning how software works from the interface to the backend, then turning that knowledge into useful projects.
+I like understanding how things work, experimenting with technology, and turning what I learn into practical software.
 
-- 🎓 Studying Bachelor of Computer Applications
-- 🧠 Building my foundation in Python and full-stack development
-- ⚙️ Exploring APIs, databases and modern web technologies
-- 🎯 Goal: become a capable software developer through consistent hands-on work
+- 🎓 Bachelor of Computer Applications — YCMOU
+- 🐍 Growing my Python and full-stack development skills
+- ⚙️ Interested in APIs, databases and useful web applications
+- 🚀 Building and experimenting under **YN Interactive**
 
 </td>
 <td width="42%" valign="top">
 
-## ◈ CURRENT FOCUS
+## ◈ RIGHT NOW
 
-**Learning**
-- Python & backend development
-- FastAPI and REST APIs
-- React / Next.js
-- SQL & PostgreSQL
-
-**Building**
-- Practical web applications
-- Clean, responsive interfaces
-- Projects under **YN Interactive**
+```yaml
+name: Yogesh Naik
+role: Aspiring Developer
+focus:
+  - Python
+  - Backend APIs
+  - Full-Stack Web
+learning:
+  - FastAPI
+  - React / Next.js
+  - PostgreSQL
+motto: "Learn. Build. Improve."
+```
 
 </td>
 </tr>
 </table>
+
+## ◈ MY DEVELOPER JOURNEY
+
+<div align="center">
+
+| STAGE | FOCUS |
+|:---:|:---|
+| **01** | 🎓 BCA foundations — YCMOU |
+| **02** | 💻 Programming — C, C++, Python, Java basics |
+| **03** | 🌐 Web fundamentals — HTML, CSS, JavaScript |
+| **04** | ⚡ Full-stack practice — React, Next.js, APIs, databases |
+| **05** | 🚀 Current mission — build stronger, complete projects |
+
+</div>
 
 ## ◈ TECH STACK
 
@@ -63,32 +78,36 @@ I enjoy learning how software works from the interface to the backend, then turn
 
 </div>
 
-<sub>Java is at a basic level; the rest reflects technologies I've worked with or am actively learning.</sub>
+<sub>Java is at a basic level. Other tools shown are technologies I've worked with or am actively learning.</sub>
 
 ---
 
-## ◈ SELECTED WORK
+## ◈ SELECTED PROJECTS
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌌 YN Interactive
+### <img src="https://img.shields.io/badge/01-YN_INTERACTIVE-6C3BFF?style=flat-square" />
 
-A personal web presence and development portfolio.
+**Personal portfolio & web presence**
 
-[<img src="https://img.shields.io/badge/OPEN_LIVE_SITE-6C3BFF?style=for-the-badge&logo=vercel&logoColor=white" />](https://yn-interactive-rddn.vercel.app)
+A home for my development work and experiments.
 
-[Source code ↗](https://github.com/yogesh-hum/YN-interactive)
+<a href="https://yn-interactive-rddn.vercel.app"><img src="https://img.shields.io/badge/LIVE_DEMO-00C8FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+[View source ↗](https://github.com/yogesh-hum/YN-interactive)
 
 </td>
 <td width="50%" valign="top">
 
-### 💻 Class Code
+### <img src="https://img.shields.io/badge/02-CLASS_CODE-00A6C8?style=flat-square" />
 
-A project space for class-related coding work and learning.
+**Learning & coding project**
 
-[<img src="https://img.shields.io/badge/VIEW_REPOSITORY-00A6C8?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/yogesh-hum/class-code)
+A repository for class-related code and programming practice.
+
+<a href="https://github.com/yogesh-hum/class-code"><img src="https://img.shields.io/badge/VIEW_CODE-6C3BFF?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 </tr>
@@ -111,7 +130,7 @@ A project space for class-related coding work and learning.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yogesh-hum/yogesh-hum/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution graph" width="100%" />
+<img src="https://raw.githubusercontent.com/yogesh-hum/yogesh-hum/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution graph — generated by GitHub Actions" width="100%" />
 
 </div>
 
@@ -121,11 +140,13 @@ A project space for class-related coding work and learning.
 
 ### LET'S BUILD SOMETHING MEANINGFUL.
 
-<a href="https://github.com/yogesh-hum"><img src="https://img.shields.io/badge/Follow%20my%20journey-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://yn-interactive-rddn.vercel.app"><img src="https://img.shields.io/badge/Explore%20my%20portfolio-6C3BFF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/yogesh-hum"><img src="https://img.shields.io/badge/EXPLORE_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://yn-interactive-rddn.vercel.app"><img src="https://img.shields.io/badge/VISIT_PORTFOLIO-6C3BFF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+**DESIGNED & BUILT BY YOGESH NAIK** · YN INTERACTIVE
+
+<sub>Curiosity in mind. Code in progress. Always building.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C8FF,55:32105F,100:090014&height=100&section=footer" width="100%" />
-
-<sub>Designed with curiosity · Built with consistency · Powered by ☕</sub>
 
 </div>
